@@ -1,9 +1,5 @@
 # Notiva - Modern Android Not Alma ve Chatbot Uygulaması
 
-<div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="Notiva Logo" width="120"/>
-</div>
-
 ## 📱 Uygulama Özellikleri
 
 Notiva, modern Android teknolojileri kullanılarak geliştirilmiş çok fonksiyonlu bir not alma ve yapay zeka destekli chatbot uygulamasıdır.
