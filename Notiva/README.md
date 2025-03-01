@@ -152,7 +152,7 @@ UI (Compose) ←→ ViewModel ←→ UseCase ←→ Repository ←→ DataSource
   <p><i>Gerçek zamanlı hava durumu sorguları</i></p>
   
   <h4>API Seçim Ekranı</h4>
-  <img src="docs/screenshots/api_selection.png" alt="API Seçimi" width="300"/>
+  <img src="docs/screenshots/api_selection.jpg" alt="API Seçimi" width="300"/>
   <p><i>Farklı API servisleri arasında geçiş</i></p>
 </div>
 
