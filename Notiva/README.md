@@ -128,31 +128,31 @@ UI (Compose) ←→ ViewModel ←→ UseCase ←→ Repository ←→ DataSource
 
 <div align="center">
   <h4>Ana Ekran ve Modüller</h4>
-  <img src="docs/screenshots/home_screen.png" alt="Ana Ekran" width="300"/>
+  <img src="docs/screenshots/home_screen.jpg" alt="Ana Ekran" width="300"/>
   <p><i>Notiva'nın ana ekranı - Modüller ve ilham verici alıntı</i></p>
   
   <h4>Not Oluşturma ve Düzenleme</h4>
-  <img src="docs/screenshots/note_detail.png" alt="Not Detayı" width="300"/>
+  <img src="docs/screenshots/note_detail.jpg" alt="Not Detayı" width="300"/>
   <p><i>Not detay ekranı - Başlık, içerik, renk seçimi ve hatırlatıcı</i></p>
   
   <h4>Görevler (Yapılacaklar) Listesi</h4>
-  <img src="docs/screenshots/tasks_screen.png" alt="Görevler Ekranı" width="300"/>
+  <img src="docs/screenshots/tasks_screen.jpg" alt="Görevler Ekranı" width="300"/>
   <p><i>Görevler ekranı - Tamamlanan ve devam eden görevlerin yönetimi</i></p>
   
   <h4>Notlar Listesi ve Sıralama</h4>
-  <img src="docs/screenshots/notes_list.png" alt="Notlar Listesi" width="300"/>
+  <img src="docs/screenshots/notes_list.jpg" alt="Notlar Listesi" width="300"/>
   <p><i>Notlar listesi ekranı - Farklı sıralama seçenekleri</i></p>
   
   <h4>Chatbot - Wikipedia Bilgi Sorguları</h4>
-  <img src="docs/screenshots/chatbot_wiki.png" alt="Wikipedia Chatbot" width="300"/>
+  <img src="docs/screenshots/chatbot_wiki.jpg" alt="Wikipedia Chatbot" width="300"/>
   <p><i>Wikipedia entegrasyonu ile bilgi sorguları</i></p>
   
   <h4>Chatbot - Gemini AI</h4>
-  <img src="docs/screenshots/chatbot_gemini.png" alt="Gemini AI Chatbot" width="300"/>
+  <img src="docs/screenshots/chatbot_gemini.jpg" alt="Gemini AI Chatbot" width="300"/>
   <p><i>Gemini AI ile matematik problemleri çözümü</i></p>
   
   <h4>Chatbot - Hava Durumu</h4>
-  <img src="docs/screenshots/chatbot_weather.png" alt="Hava Durumu Chatbot" width="300"/>
+  <img src="docs/screenshots/chatbot_weather.jpg" alt="Hava Durumu Chatbot" width="300"/>
   <p><i>Gerçek zamanlı hava durumu sorguları</i></p>
   
   <h4>API Seçim Ekranı</h4>
