@@ -1,0 +1,11 @@
+Bu klasör, Notiva uygulamasının ekran görüntülerini içerir.
+
+Ekran görüntüleri:
+1. home_screen.png - Ana ekran
+2. note_detail.png - Not detay ekranı 
+3. tasks_screen.png - Görevler ekranı
+4. notes_list.png - Notlar listesi ekranı
+5. chatbot_wiki.png - Wikipedia chatbot ekranı
+6. chatbot_gemini.png - Gemini AI chatbot ekranı
+7. chatbot_weather.png - Hava durumu chatbot ekranı
+8. api_selection.png - API seçim ekranı 

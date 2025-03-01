@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051593440454",
+    "project_id": "notiva-f25b5",
+    "storage_bucket": "notiva-f25b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051593440454:android:5bba45c00acb0073bbabc7",
+        "android_client_info": {
+          "package_name": "com.example.multiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZ2V5Ol4eGZkgXtkDdOQ2kckPUhnBwlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
